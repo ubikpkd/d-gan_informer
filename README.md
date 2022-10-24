@@ -6,6 +6,10 @@
 - pandas == 0.25.1
 - scikit_learn == 0.21.3
 - torch == 1.8.0
+
+Dependencies can be installed using the following command:
+
+`pip install -r requirements.txt`
 ## Data
 The dataset for the experiment includes
 - ETT(Electricity Eransformer Temperature): The ETT dataset contains two years of data on oil temperature of power transformers in two counties in China and six other metrics.
